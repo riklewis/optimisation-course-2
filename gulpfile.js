@@ -41,6 +41,4 @@ var img = function() {
     .pipe(gulp.dest("build/img"));
 };
 
-gulp.task("default",["root","js","css","img"]);
-
 exports.default = gulp.parallel(root,js,css,img);

@@ -19,6 +19,7 @@ There is a branch for each start point during the course, which corresponds to t
 1. Course Introduction
 2. Sample Project
 3. Converting to Gulp 4 - branch [03start](https://github.com/riklewis/optimisation-course-2/tree/03start)
+4. Running NPM Audit - branch [04start](https://github.com/riklewis/optimisation-course-2/tree/04start)
 
 The final version of the sample website is published at the following link...
 
