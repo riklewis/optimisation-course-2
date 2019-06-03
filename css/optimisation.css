@@ -1,0 +1,53 @@
+img.navbar-img {
+  display: inline;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  top: -2px;
+  margin-right: 8px;
+}
+
+.main {
+  margin-top: 70px;
+}
+
+.well {
+  height: 150px;
+  text-align: center;
+}
+
+.gulp-logo, .nodejs-logo {
+  height: 100%;
+}
+
+.git-logo {
+  width: 90%;
+  padding-top: 15px;
+}
+
+.npm-logo {
+  height: 150%;
+  margin-top: -25px;
+}
+
+.footer-right {
+  float: right;
+  position: relative;
+  top: -35px;
+}
+
+.footer-right a {
+  margin-left: 15px;
+}
+
+@media screen and (max-width: 991px) {
+  .git-logo {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .footer-right {
+    position: static;
+  }
+}
