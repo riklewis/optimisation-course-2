@@ -3,7 +3,6 @@ var concat = require("gulp-concat");
 var uglify = require("gulp-uglify");
 var optimize = require("gulp-optimize-js");
 var maps = require("gulp-sourcemaps");
-var pump = require("pump");
 var cleancss = require("gulp-clean-css");
 var imagemin = require("gulp-imagemin");
 var newer = require("gulp-newer");
