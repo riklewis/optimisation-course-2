@@ -32,9 +32,9 @@ AddOutputFilterByType DEFLATE text/cache-manifest
 #Set file caching
 <IfModule mod_expires.c>
   ExpiresActive On
-  ExpiresByType text/css "access 7 days"
-  ExpiresByType text/javascript "access 7 days"
-  ExpiresByType application/javascript "access 7 days"
+  ExpiresByType text/css "access 1 year"
+  ExpiresByType text/javascript "access 1 year"
+  ExpiresByType application/javascript "access 1 year"
   ExpiresByType image/* "access 2 months"
   ExpiresDefault "access"
 </IfModule>

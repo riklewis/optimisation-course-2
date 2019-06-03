@@ -20,8 +20,9 @@ There is a branch for each start point during the course, which corresponds to t
 2. Sample Project
 3. Converting to Gulp 4 - branch [03start](https://github.com/riklewis/optimisation-course-2/tree/03start)
 4. Running NPM Audit - branch [04start](https://github.com/riklewis/optimisation-course-2/tree/04start)
-4. Updating All Packages - branch [05start](https://github.com/riklewis/optimisation-course-2/tree/05start)
-4. Load Plugins Automatically - branch [06start](https://github.com/riklewis/optimisation-course-2/tree/06start)
+5. Updating All Packages - branch [05start](https://github.com/riklewis/optimisation-course-2/tree/05start)
+6. Load Plugins Automatically - branch [06start](https://github.com/riklewis/optimisation-course-2/tree/06start)
+7. Leverage Browser Caching - branch [07start](https://github.com/riklewis/optimisation-course-2/tree/07start)
 
 The final version of the sample website is published at the following link...
 

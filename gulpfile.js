@@ -3,7 +3,8 @@ var plugins = require("gulp-load-plugins")();
 
 var root = function() {
   return gulp.src("index.htm")
-    .pipe(plugins.htmlmin({collapseWhitespace:true,removeComments:true}))
+    .pipe(plugins.hashSrc({build_dir:"build",src_path:".",exts:[".js",".css"]}))
+    //.pipe(plugins.htmlmin({collapseWhitespace:true,removeComments:true}))
     .pipe(gulp.dest("build"));
 };
 
@@ -33,4 +34,4 @@ var img = function() {
     .pipe(gulp.dest("build/img"));
 };
 
-exports.default = gulp.parallel(root,js,css,img);
+exports.default = gulp.series(gulp.parallel(js,css,img),root);
