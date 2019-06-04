@@ -28,6 +28,7 @@
     "gulp-hash-src": "^0.1.6",
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^6.0.0",
+    "gulp-inline-source": "^4.0.0",
     "gulp-load-plugins": "^1.6.0",
     "gulp-newer": "^1.4.0",
     "gulp-optimize-js": "^1.1.0",

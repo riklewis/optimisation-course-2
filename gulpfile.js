@@ -3,6 +3,7 @@ var plugins = require("gulp-load-plugins")();
 
 var root = function() {
   return gulp.src("index.htm")
+    .pipe(plugins.inlineSource({compress:false,rootpath:"build"}))
     .pipe(plugins.hashSrc({build_dir:"build",src_path:".",exts:[".js",".css"]}))
     .pipe(plugins.htmlmin({
       collapseWhitespace:true,

@@ -28,6 +28,8 @@ There is a branch for each start point during the course, which corresponds to t
 10. HTML Minification - branch [10start](https://github.com/riklewis/optimisation-course-2/tree/10start)
 11. Purifying Stylesheets - branch [11start](https://github.com/riklewis/optimisation-course-2/tree/11start)
 12. Using jQuery Slim - branch [12start](https://github.com/riklewis/optimisation-course-2/tree/12start)
+13. Inlining Small Assets - branch [13start](https://github.com/riklewis/optimisation-course-2/tree/13start)
+14. Course Summary
 
 The final version of the sample website is published at the following link...
 
