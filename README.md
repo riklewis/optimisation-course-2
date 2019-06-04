@@ -33,6 +33,6 @@ There is a branch for each start point during the course, which corresponds to t
 
 The final version of the sample website is published at the following link...
 
-[https://optimisation-course-2.netlify.com](https://optimisation-course-2.netlify.com)
+[https://optimisation-course-2.netlify.com](https://optimisation-course-2.netlify.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/32f91775-1a48-4184-acd5-54901d116dcb/deploy-status)](https://app.netlify.com/sites/optimisation-course-2/deploys)
 
 Thank you for watching!
