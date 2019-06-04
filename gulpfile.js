@@ -35,6 +35,7 @@ var css = function() {
   return gulp.src(["css/*.css"])
     .pipe(plugins.sourcemaps.init())
     .pipe(plugins.concat("style.css"))
+    .pipe(plugins.purifycss(["*.htm"]))
     .pipe(plugins.cleanCss({level:{1:{specialComments:0},2:{removeDuplicateRules:true}}}))
     .pipe(plugins.sourcemaps.write("../maps"))
     .pipe(gulp.dest("build/css"));

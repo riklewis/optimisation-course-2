@@ -26,6 +26,7 @@ There is a branch for each start point during the course, which corresponds to t
 8. Enable Server Compression - branch [08start](https://github.com/riklewis/optimisation-course-2/tree/08start)
 9. Modern Image Formats - branch [09start](https://github.com/riklewis/optimisation-course-2/tree/09start)
 10. HTML Minification - branch [10start](https://github.com/riklewis/optimisation-course-2/tree/10start)
+11. Purifying Stylesheets - branch [11start](https://github.com/riklewis/optimisation-course-2/tree/11start)
 
 The final version of the sample website is published at the following link...
 
