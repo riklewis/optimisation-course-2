@@ -4,7 +4,20 @@ var plugins = require("gulp-load-plugins")();
 var root = function() {
   return gulp.src("index.htm")
     .pipe(plugins.hashSrc({build_dir:"build",src_path:".",exts:[".js",".css"]}))
-    .pipe(plugins.htmlmin({collapseWhitespace:true,removeComments:true}))
+    .pipe(plugins.htmlmin({
+      collapseWhitespace:true,
+      removeComments:true,
+      collapseBooleanAttributes:true,
+      removeAttributeQuotes:true,
+      removeEmptyAttributes:true,
+      //removeEmptyElements:true,
+      removeRedundantAttributes:true,
+      removeScriptTypeAttributes:true,
+      removeStyleLinkTypeAttributes:true,
+      sortAttributes:true,
+      sortClassName:true,
+      useShortDoctype:true
+    }))
     .pipe(gulp.dest("build"));
 };
 
