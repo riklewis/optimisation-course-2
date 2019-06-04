@@ -24,6 +24,7 @@ There is a branch for each start point during the course, which corresponds to t
 6. Load Plugins Automatically - branch [06start](https://github.com/riklewis/optimisation-course-2/tree/06start)
 7. Leverage Browser Caching - branch [07start](https://github.com/riklewis/optimisation-course-2/tree/07start)
 8. Enable Server Compression - branch [08start](https://github.com/riklewis/optimisation-course-2/tree/08start)
+9. Modern Image Formats - branch [09start](https://github.com/riklewis/optimisation-course-2/tree/09start)
 
 The final version of the sample website is published at the following link...
 
