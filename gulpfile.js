@@ -22,7 +22,7 @@ var root = function() {
 };
 
 var js = function() {
-  return gulp.src(["js/optimisation.js","js/debug.js"])
+  return gulp.src(["js/*.js"])
     .pipe(plugins.sourcemaps.init())
     .pipe(plugins.concat("script.js"))
     .pipe(plugins.uglify())
