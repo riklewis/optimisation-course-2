@@ -3,13 +3,13 @@ Description
 
 This is the sample website project that is used in the course "Optimising your website: A developer workflow continued with Gulp 4", which is available on Skillshare at the following link...
 
-[Optimising your website: A developer workflow continued with Gulp 4]()
+[Optimising your website: A developer workflow continued with Gulp 4](https://skl.sh/2QPy0PB)
 
 This is a follow up course to the original course "Optimising your website: A developer workflow with Git and Gulp", which can be found on Skillshare here...
 
-[Optimising your website: A developer workflow with Git and Gulp](https://www.skillshare.com/classes/Optimising-your-website-A-development-workflow-with-Git-and-Gulp/1578429632/)
+[Optimising your website: A developer workflow with Git and Gulp](https://skl.sh/2mTc6Qq)
 
-You can also check out [my other courses](https://www.skillshare.com/user/riklewis) on Skillshare.
+You can also check out my other courses on [Skillshare](https://www.skillshare.com/user/riklewis) and [Udemy](https://www.udemy.com/user/riklewis/).
 
 Videos
 ======
@@ -33,6 +33,7 @@ There is a branch for each start point during the course, which corresponds to t
 
 The final version of the sample website is published at the following link...
 
-[https://optimisation-course-2.netlify.com](https://optimisation-course-2.netlify.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/32f91775-1a48-4184-acd5-54901d116dcb/deploy-status)](https://app.netlify.com/sites/optimisation-course-2/deploys)
+[https://optimisation-course-2.netlify.com](https://optimisation-course-2.netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32f91775-1a48-4184-acd5-54901d116dcb/deploy-status)](https://app.netlify.com/sites/optimisation-course-2/deploys)
 
 Thank you for watching!
