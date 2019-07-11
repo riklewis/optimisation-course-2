@@ -1,6 +1,6 @@
 {
   "name": "optimisation-course-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample project for Optimising your website course",
   "main": "index.js",
   "scripts": {
