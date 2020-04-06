@@ -23,6 +23,7 @@ $RECYCLE.BIN/
 
 # Node JS
 node_modules
+.node_modules
 
 # Backups
 *.bak
