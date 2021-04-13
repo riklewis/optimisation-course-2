@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/riklewis/optimisation-course-2#readme",
   "devDependencies": {
-    "acorn": "^8.1.0",
+    "acorn": "^8.1.1",
     "extend": "^3.0.2",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
